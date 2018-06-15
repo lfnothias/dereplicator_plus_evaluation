@@ -28,17 +28,17 @@ Overall, the dereplicator+ scoring function (Figure 1-2) was found to more signi
 ### Dereplicator+
 
 Figure 1.
-<img src="img/figure1.jpg"/>
+<img src="IMG/figure1.png"/>
 
 Figure 2.
 ### Dereplicator
-<img src="img/figure2.jpg"/>
+<img src="IMG/figure2.png"/>
 
 Figure 3.
-<img src="img/figure3.jpg"/>
+<img src="IMG/figure3.png"/>
 
 ### Dereplicator+ vs Dereplicator
 
 Figure 4. Distribution of the score for the correct annotation in dereplicator+ and dereplicator
-<img src="img/figure4.jpg"/>
+<img src="IMG/figure4.png"/>
 
