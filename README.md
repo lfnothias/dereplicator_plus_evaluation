@@ -28,17 +28,17 @@ Overall, the dereplicator+ scoring function (Figure 1-2) was found to more signi
 ### Dereplicator+
 
 Figure 1.
-<img src="IMG/figure1.png"/>
+<img src="https://github.com/lfnothias/dereplicator_plus_evaluation/blob/master/IMG/Figure1.png"/>
 
 Figure 2.
 ### Dereplicator
-<img src="IMG/figure2.png"/>
+<img src="https://github.com/lfnothias/dereplicator_plus_evaluation/blob/master/IMG/Figure2.png"/>
 
 Figure 3.
-<img src="IMG/figure3.png"/>
+<img src="https://github.com/lfnothias/dereplicator_plus_evaluation/blob/master/IMG/Figure3.png"/>
 
 ### Dereplicator+ vs Dereplicator
 
 Figure 4. Distribution of the score for the correct annotation in dereplicator+ and dereplicator
-<img src="IMG/figure4.png"/>
+<img src="https://github.com/lfnothias/dereplicator_plus_evaluation/blob/master/IMG/Figure4.png"/>
 
