@@ -1,7 +1,7 @@
 # dereplicator_plus_evaluation
 This repository contains the data and script from the evaluation of Dereplicator+ on 5414 spectral library annotations from GNPS libraries
 
-INTRODUCTION
+## INTRODUCTION
 
 For the evaluation on the Insilico Peptidic Natural Products Dereplicator see:
 https://bix-lab.ucsd.edu/display/Public/Insilico+Natural+Products+Dereplicator+Documentation
@@ -10,7 +10,8 @@ The workflow can be accessed here: https://gnps.ucsd.edu/ProteoSAFe/static/gnps-
 
 Citation:
 Hosein Mohimani, Alexey Gurevich, Alla Mikheenko, Neha Garg, Louis-Felix Nothias, Akihiro Ninomiya, Kentaro Takada, Pieter C. Dorrestein, Pavel A. Pevzner, Dereplication of Peptidic Natural Products Through Database Search of Mass Spectra, Nature Chemical Biology 13, 30--37 (2017) https://www.nature.com/articles/nchembio.2
-METHODS
+
+## METHODS
 
 See the corresponding GitHub for the evaluation script and data: https://github.com/lfnothias/dereplicator_plus_evaluation
 
@@ -24,16 +25,20 @@ With a threshold score of 5 (865 annotations), the correct candidate is found at
 With a threshold score of 8 (364 annotations), the correct candidate is found at the first position for 78.5 % of spectra, while for 52.5 % of the incorrect annotations the candidate was found to have a strong structural similarity (calculated using the tanimonoto score between the pubchem fingerprint > 0.7).
 
 Overall, the dereplicator+ scoring function (Figure 1-2) was found to more significant than the dereplicator score (Figure 3-4).
-Dereplicator+
+### Dereplicator+
 
 Figure 1.
+<img src="img/figure1.jpg"/>
 
 Figure 2.
-Dereplicator
+### Dereplicator
+<img src="img/figure2.jpg"/>
 
 Figure 3.
+<img src="img/figure3.jpg"/>
 
-Dereplicator+ vs Dereplicator
+### Dereplicator+ vs Dereplicator
 
 Figure 4. Distribution of the score for the correct annotation in dereplicator+ and dereplicator
+<img src="img/figure4.jpg"/>
 
