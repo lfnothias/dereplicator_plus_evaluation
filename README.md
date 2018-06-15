@@ -9,7 +9,7 @@ https://bix-lab.ucsd.edu/display/Public/Insilico+Natural+Products+Dereplicator+D
 The workflow can be accessed here: https://gnps.ucsd.edu/ProteoSAFe/static/gnps-theoretical.jsp
 
 Citation:
-Hosein Mohimani, Alexey Gurevich, Alla Mikheenko, Neha Garg, Louis-Felix Nothias, Akihiro Ninomiya, Kentaro Takada, Pieter C. Dorrestein, Pavel A. Pevzner, Dereplication of Peptidic Natural Products Through Database Search of Mass Spectra, Nature Chemical Biology 13, 30--37 (2017) https://www.nature.com/articles/nchembio.2
+Hosein Mohimani, Alexey Gurevich, Alla Mikheenko, Alexander Shlemov, Anton Korobeynikov, Liu Cao, Egor Shcherbin, Louis-Felix Nothias, Pieter C. Dorrestein, Pavel A. Pevzner, Dereplication of Microbial Metabolites Through Database Search of Mass Spectra, Manuscript submitted (2018)
 
 ## METHODS
 
